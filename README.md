@@ -8,6 +8,7 @@ Basic controls:
 Hold left-click to draw walls
 Hold right-click to move red cell (end point)
 Hold middle-click to move green cell (start point)
+Press space to start searching
 ```
 
 ![image](https://github.com/LegendLeaks/Pathfinding-Visualizer/assets/79763213/f05aeb6c-78f1-455f-90e8-c39fad5237c2)
